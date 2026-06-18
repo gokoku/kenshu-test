@@ -5,5 +5,5 @@ test("ok", () => {
 });
 
 test("ok", () => {
-    expect (1 * 1).toBe(1);
+    expect (1 + 3).toBe(4);
 });
